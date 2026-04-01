@@ -5,5 +5,7 @@
 
 若需進行另一組試算，點擊「清除重新輸入」按鈕，所有欄位將回復至預設狀態。
 
+有新增無滑鼠操作，加入Tab鍵和Enter鍵
+
 <img width="944" height="826" alt="螢幕擷取畫面 2026-03-29 135629" src="https://github.com/user-attachments/assets/5ae11a41-ccaa-4511-8af8-3c789e6ea518" />
 <img width="944" height="822" alt="螢幕擷取畫面 2026-03-29 135704" src="https://github.com/user-attachments/assets/12b015e8-0cc9-4f39-8ab3-5b0e03698ae9" />
